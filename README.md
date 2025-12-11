@@ -1,31 +1,25 @@
-# 👋 Bonjour! I’m Ricardo Martins
+### 👋 Hi, I’m Ricardo Martins
 
-**🛠️ Mechanical Engineer** $\rightarrow$ **🔍 Data Science Student**
-
-*(Yes, I'm also learning French… sadly it’s not a programming language yet 🇫🇷🤷‍♂️)*
+**🛠️ Mechanical Engineer $\rightarrow$ 🔍 Data Science Student**
 
 
-## 🚀 Who Am I?
+### 🚀 What I Do
 
-I started out solving problems with gears and physics, and now I solve them with data and code.
-
-My engineering background gave me the **math, physics, and systems-thinking** needed to understand the world — but coding gave me something even better: **instant feedback**.
-
-🧩 I love building things, breaking them, fixing them, and learning along the way.
+I build things, break things, fix things, and learn fast. Coding feels like a game, and I love seeing ideas become real. My core focus is translating complex problems into **data-driven solutions.**
 
 
-## 🧪 Some Projects on My Journey
+### 🧪 Projects I’m Proud Of
 
-I like seeing how far I've come by looking back at what I've built — here are some highlights:
-
-- **⭐ Portfolio**: Frontend, Design, Vercel | My personal website where I showcase my work and experiments. Continuously evolving.
-- **💧 Water Prediction Dashboard**: ML, Data Pipelines, Visualization | A dashboard for a water usage prediction model — combining data pipelines, visualization, and ML.
-- **🚲 Community Bike System App**: Databases, Backend Flows | An app made for a local bike-sharing community. Learned a ton about databases and backend flows.
-- **🏍️ University Motorbike Racing Website**: Next.js, Frontend | A full website for a university motorbike racing team.
-- **🧾 Receipt Tracker (My proudest one!)**: **E2E Automation, Cloud, APIs, DB** | Take a photo of a receipt on WhatsApp $\rightarrow$ lands in Google Cloud $\rightarrow$ parsed by OpenAI API $\rightarrow$ saved to a Postgres DB. Super fast, super efficient, and my pockets have never been cleaner.
+* **🧾 Receipt Tracker:** E2E automation (WhatsApp $\rightarrow$ Cloud $\rightarrow$ OpenAI $\rightarrow$ Postgres).
+* **💧 Water Prediction Dashboard:** ML, data pipelines, and visualization.
+* **🌐 Small Web Apps & Next.js Sites:** Full-stack development, often deployed with Vercel and Neon Postgres.
+* **🏍️ Motorbike Racing Website:** Frontend development experience (Next.js).
+* **⭐ My Portfolio:** Continuously evolving showcase of work.
 
 
-## 🏗️ What I’m Building Now
+### ✨ About Me
 
-### Small Business Websites
-Creating websites for small companies using **Next.js**, deployed to **Vercel**, connected to a **Neon cloud PostgreSQL database** via **Prisma**. I’m building my own analytics dashboard to help clients understand their traffic and user behavior.
+* Love photography 📸
+* Always experimenting with new tech 🔧
+
+Would you like to add a section about what you're currently building or what roles you are seeking?
