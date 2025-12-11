@@ -35,5 +35,3 @@ I like seeing how far I've come by looking back at what I've built — here are 
 
 ### Small Business Websites
 Creating websites for small companies using **Next.js**, deployed to **Vercel**, connected to a **Neon cloud PostgreSQL database** via **Prisma**. I’m building my own analytics dashboard to help clients understand their traffic and user behavior.
-
-If it involves building something useful and making data talk — **I’m in.**
