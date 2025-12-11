@@ -2,9 +2,6 @@
 
 **🛠️ Mechanical Engineer $\rightarrow$ 🔍 Data Science Student**
 
-
-### 🚀 What I Do
-
 I build things, break things, fix things, and learn fast. Coding feels like a game, and I love seeing ideas become real. My core focus is translating complex problems into **data-driven solutions.**
 
 
