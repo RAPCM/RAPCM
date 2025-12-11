@@ -45,39 +45,4 @@ I like seeing how far I've come by looking back at what I've built — here are 
 ### 🌐 Small Business Websites
 Creating websites for small companies using **Next.js**, deployed to **Vercel**, connected to a **Neon cloud PostgreSQL database** via **Prisma**. I’m building my own analytics dashboard to help clients understand their traffic and user behavior.
 
-### 🧱 Data Infrastructure Experiments
-Testing new ways to connect `frontend` $\rightarrow$ `backend` $\rightarrow$ `database` $\rightarrow$ `analytics` while keeping everything smooth, scalable, and “engineer-approved.”
-
-
-## 🛠️ Tech Stack I Use & Love
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, SQL |
-| **Frameworks** | Next.js (not a language but it basically has its own personality 😄), React, FastAPI |
-| **ML/Data** | scikit-learn, PyTorch |
-| **Data & Cloud** | PostgreSQL / Neon, Docker, Prisma, Google Cloud |
-| **APIs** | OpenAI API |
-| **Deployment** | Vercel |
-| **...and more!** | *(Honestly… whatever else looks interesting this week.)* |
-
-
-## ✨ My Vibe
-
-* Playful engineer who treats coding like a puzzle game 🎮
-* Big fan of **clean data** and **clean code**
-* Lover of photography 📸
-* Always exploring new frameworks
-* Happy to break stuff if it means learning 🙃
-
-
-## 🎯 What I’m Looking For
-
-Roles where I can combine:
-
-* Data science & Machine learning
-* Software engineering
-* Cloud systems
-* End-to-end project ownership
-
 If it involves building something useful and making data talk — **I’m in.**
