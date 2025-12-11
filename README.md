@@ -18,15 +18,6 @@ For me, coding is basically a video game:
 I love building things, breaking them, fixing them, and learning along the way.
 
 
-## 📚 What I’m Focusing On
-
-* **🤖 Machine Learning** — prediction, modeling, and making data useful
-* **🧱 Large-scale data systems** — relational DBs, cloud pipelines, ETL
-* **🖥️ Web projects** — especially Next.js + Vercel setups
-* **📸 Photography** — I sneak it into my projects whenever I can
-* **🧪 Experimenting with new tech** — languages, frameworks… anything that looks fun
-
-
 ## 🧪 Some Projects on My Journey
 
 I like seeing how far I've come by looking back at what I've built — here are some highlights:
