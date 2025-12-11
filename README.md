@@ -22,13 +22,11 @@ I love building things, breaking them, fixing them, and learning along the way.
 
 I like seeing how far I've come by looking back at what I've built — here are some highlights:
 
-| Project | Key Focus Areas | Description |
-| :--- | :--- | :--- |
-| **⭐ Portfolio** | Frontend, Design, Vercel | My personal website where I showcase my work and experiments. Continuously evolving. |
-| **💧 Water Prediction Dashboard** | ML, Data Pipelines, Visualization | A dashboard for a water usage prediction model — combining data pipelines, visualization, and ML. |
-| **🚲 Community Bike System App** | Databases, Backend Flows | An app made for a local bike-sharing community. Learned a ton about databases and backend flows. |
-| **🏍️ University Motorbike Racing Website** | Next.js, Frontend | A full website for a university motorbike racing team — paired nicely with my new love for frontend work. |
-| **🧾 Receipt Tracker (My proudest one!)** | **E2E Automation, Cloud, APIs, DB** | Take a photo of a receipt on WhatsApp $\rightarrow$ lands in Google Cloud $\rightarrow$ parsed by OpenAI API $\rightarrow$ saved to a Postgres DB. Super fast, super efficient, and my pockets have never been cleaner. |
+- **⭐ Portfolio**: Frontend, Design, Vercel | My personal website where I showcase my work and experiments. Continuously evolving.
+- **💧 Water Prediction Dashboard**: ML, Data Pipelines, Visualization | A dashboard for a water usage prediction model — combining data pipelines, visualization, and ML.
+- **🚲 Community Bike System App**: Databases, Backend Flows | An app made for a local bike-sharing community. Learned a ton about databases and backend flows.
+- **🏍️ University Motorbike Racing Website**: Next.js, Frontend | A full website for a university motorbike racing team.
+- **🧾 Receipt Tracker (My proudest one!)**: **E2E Automation, Cloud, APIs, DB** | Take a photo of a receipt on WhatsApp $\rightarrow$ lands in Google Cloud $\rightarrow$ parsed by OpenAI API $\rightarrow$ saved to a Postgres DB. Super fast, super efficient, and my pockets have never been cleaner.
 
 
 ## 🏗️ What I’m Building Now
