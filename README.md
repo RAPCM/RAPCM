@@ -11,11 +11,7 @@ I started out solving problems with gears and physics, and now I solve them with
 
 My engineering background gave me the **math, physics, and systems-thinking** needed to understand the world — but coding gave me something even better: **instant feedback**.
 
-For me, coding is basically a video game:
-* If it runs ➜ **🥳 XP gained**
-* If it doesn’t ➜ **🧩 Time to solve the puzzle**
-
-I love building things, breaking them, fixing them, and learning along the way.
+🧩 I love building things, breaking them, fixing them, and learning along the way.
 
 
 ## 🧪 Some Projects on My Journey
