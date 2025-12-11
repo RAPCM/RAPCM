@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Bonjour! I’m Ricardo Martins
 
-<!--
-**RAPCM/RAPCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠️ Mechanical Engineer** $\rightarrow$ **🔍 Data Science Student**
 
-Here are some ideas to get you started:
+*(Yes, I'm also learning French… sadly it’s not a programming language yet 🇫🇷🤷‍♂️)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Who Am I?
+
+I started out solving problems with gears and physics, and now I solve them with data and code.
+
+My engineering background gave me the **math, physics, and systems-thinking** needed to understand the world — but coding gave me something even better: **instant feedback**.
+
+For me, coding is basically a video game:
+* If it runs ➜ **🥳 XP gained**
+* If it doesn’t ➜ **🧩 Time to solve the puzzle**
+
+I love building things, breaking them, fixing them, and learning along the way.
+
+
+## 📚 What I’m Focusing On
+
+* **🤖 Machine Learning** — prediction, modeling, and making data useful
+* **🧱 Large-scale data systems** — relational DBs, cloud pipelines, ETL
+* **🖥️ Web projects** — especially Next.js + Vercel setups
+* **📸 Photography** — I sneak it into my projects whenever I can
+* **🧪 Experimenting with new tech** — languages, frameworks… anything that looks fun
+
+
+## 🧪 Some Projects on My Journey
+
+I like seeing how far I've come by looking back at what I've built — here are some highlights:
+
+| Project | Key Focus Areas | Description |
+| :--- | :--- | :--- |
+| **⭐ Portfolio** | Frontend, Design, Vercel | My personal website where I showcase my work and experiments. Continuously evolving. |
+| **💧 Water Prediction Dashboard** | ML, Data Pipelines, Visualization | A dashboard for a water usage prediction model — combining data pipelines, visualization, and ML. |
+| **🚲 Community Bike System App** | Databases, Backend Flows | An app made for a local bike-sharing community. Learned a ton about databases and backend flows. |
+| **🏍️ University Motorbike Racing Website** | Next.js, Frontend | A full website for a university motorbike racing team — paired nicely with my new love for frontend work. |
+| **🧾 Receipt Tracker (My proudest one!)** | **E2E Automation, Cloud, APIs, DB** | Take a photo of a receipt on WhatsApp $\rightarrow$ lands in Google Cloud $\rightarrow$ parsed by OpenAI API $\rightarrow$ saved to a Postgres DB. Super fast, super efficient, and my pockets have never been cleaner. |
+
+
+## 🏗️ What I’m Building Now
+
+### 🌐 Small Business Websites
+Creating websites for small companies using **Next.js**, deployed to **Vercel**, connected to a **Neon cloud PostgreSQL database** via **Prisma**. I’m building my own analytics dashboard to help clients understand their traffic and user behavior.
+
+### 🧱 Data Infrastructure Experiments
+Testing new ways to connect `frontend` $\rightarrow$ `backend` $\rightarrow$ `database` $\rightarrow$ `analytics` while keeping everything smooth, scalable, and “engineer-approved.”
+
+
+## 🛠️ Tech Stack I Use & Love
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, SQL |
+| **Frameworks** | Next.js (not a language but it basically has its own personality 😄), React, FastAPI |
+| **ML/Data** | scikit-learn, PyTorch |
+| **Data & Cloud** | PostgreSQL / Neon, Docker, Prisma, Google Cloud |
+| **APIs** | OpenAI API |
+| **Deployment** | Vercel |
+| **...and more!** | *(Honestly… whatever else looks interesting this week.)* |
+
+
+## ✨ My Vibe
+
+* Playful engineer who treats coding like a puzzle game 🎮
+* Big fan of **clean data** and **clean code**
+* Lover of photography 📸
+* Always exploring new frameworks
+* Happy to break stuff if it means learning 🙃
+
+
+## 🎯 What I’m Looking For
+
+Roles where I can combine:
+
+* Data science & Machine learning
+* Software engineering
+* Cloud systems
+* End-to-end project ownership
+
+If it involves building something useful and making data talk — **I’m in.**
