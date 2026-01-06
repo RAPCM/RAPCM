@@ -18,5 +18,3 @@ I build things, break things, fix things, and learn fast. Coding feels like a ga
 
 * Love photography 📸
 * Always experimenting with new tech 🔧
-
-Would you like to add a section about what you're currently building or what roles you are seeking?
